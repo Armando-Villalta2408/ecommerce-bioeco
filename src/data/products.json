@@ -1,0 +1,93 @@
+[
+    {
+        "id": 1,
+        "name": "Abono para jardin",
+        "price": 1.5,
+        "stock": 50,
+        "image": "abono jardin.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Abono organico",
+        "price": 0.8,
+        "stock": 100,
+        "image": "abono 2.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Alcohol en gel",
+        "price": 1.0,
+        "stock": 30,
+        "image": "alcohol en gel.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Ba-Eco",
+        "price": 1.0,
+        "stock": 30,
+        "image": "ba-eco.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Biorep",
+        "price": 1.0,
+        "stock": 30,
+        "image": "biorep.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Cloro",
+        "price": 1.0,
+        "stock": 30,
+        "image": "cloro.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Detergente liquido",
+        "price": 1.0,
+        "stock": 30,
+        "image": "detergente liquido.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Gel de ducha",
+        "price": 1.0,
+        "stock": 30,
+        "image": "gel de ducha.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Jabón para manos",
+        "price": 1.0,
+        "stock": 30,
+        "image": "Jabon para manos.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Limpiador para loza",
+        "price": 1.0,
+        "stock": 30,
+        "image": "limpiador de loza.jpg"
+    },
+    {
+        "id": 11,
+        "name": "Pulidor de cristal",
+        "price": 1.0,
+        "stock": 30,
+        "image": "pulidor de cristal.jpg"
+    },
+    {
+        "id": 12,
+        "name": "Suavizante",
+        "price": 1.0,
+        "stock": 30,
+        "image": "suavizante.jpg"
+    },
+    {
+        "id": 13,
+        "name": "Lixiviado de Lombriz",
+        "price": 1.0,
+        "stock": 30,
+        "image": "lixiviado de lombriz.jpg"
+    }
+]
